@@ -21,6 +21,14 @@
         "ostream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "iomanip": "cpp",
+        "array": "cpp",
+        "ctime": "cpp",
+        "tuple": "cpp",
+        "sstream": "cpp",
+        "utility": "cpp",
+        "bitset": "cpp",
+        "cmath": "cpp"
     }
 }
