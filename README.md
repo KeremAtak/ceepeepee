@@ -2,4 +2,4 @@
 
 Some personal c++ lessons and exercises.. nothing fancy here!
 
-g++ -o main main.cpp -std=c++17
+g++-7 -o main main.cpp -std=c++17
